@@ -1,0 +1,25 @@
+Registro de Usuario
+Ingrese su contraseña: Hash: 79957
+Login de Usuario
+Ingrese su contraseña, tiene hasta 10 intentos.
+Intento de login fallido (1 de 10)
+Hash: 56652
+Intento de login fallido (2 de 10)
+Hash: 6171619
+Intento de login fallido (3 de 10)
+Hash: 76138
+Intento de login fallido (4 de 10)
+Hash: 58114
+Intento de login fallido (5 de 10)
+Hash: 81893
+Intento de login fallido (6 de 10)
+Hash: 705304
+Intento de login fallido (7 de 10)
+Hash: 729064
+Intento de login fallido (8 de 10)
+Hash: 26559
+Intento de login fallido (9 de 10)
+Hash: 25976
+Intento de login fallido (10 de 10)
+Hash: 24842
+Fuera de aquí!

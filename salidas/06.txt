@@ -1,0 +1,9 @@
+Registro de Usuario
+Ingrese su contraseña: Hash: 6402075
+Login de Usuario
+Ingrese su contraseña, tiene hasta 10 intentos.
+Intento de login fallido (1 de 10)
+Hash: 26295
+Intento de login fallido (2 de 10)
+Hash: 6401955
+Login realizado correctamente.
